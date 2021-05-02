@@ -1,2 +1,2 @@
-# dpkdtrmind.github.io
+# stockopedia.github.io
 
