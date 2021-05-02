@@ -1,2 +1,2 @@
-# stockopedia.github.io
+# stockopedia
 
